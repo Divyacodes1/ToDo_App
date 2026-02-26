@@ -1,4 +1,3 @@
 write something
-Make coffee
-do something
-
+make coffee
+Buy grocery
